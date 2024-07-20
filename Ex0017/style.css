@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+    font-family: normal 16px Arial, Verdana, serif;
+}
