@@ -8,6 +8,17 @@ body{
 }
 
 p{
-    text-align: justify;
+    text-align: center;
     font-family: normal 16px Arial, Verdana, serif;
+    margin: auto;
+}
+.voltarP{
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.sobre{
+    text-align: justify;
+    max-width: 700px;
+    text-indent: 35px;
 }
